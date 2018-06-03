@@ -11,7 +11,7 @@ weight: 50
     <img class="img-responsive" src="/images/welcome.jpg" alt="Hinny Wass yoga asana">
   </div>
   <div class="col-md-8">
-    <p class="lead" style="font-size: 1.5em">Forrest Yoga meets every student where they are at right now today, and helps them strengthen, lengthen and heal.</p>
+    <p class="lead" style="font-size: 1.5em">Forrest Yoga meets every student where they are at right now today, and helps them strengthen, release and heal.</p>
 
     <p> I am hugely passionate about Forrest Yoga, and I am very excited about the possibilities it offers to every single human being to become happier, healthier, stronger and more comfortable.  It is a powerful tool for change and growth, and no matter how fit, how bendy, how strong you are I'm certain you'll find that life is always better with yoga in it!</p>
   </div>
