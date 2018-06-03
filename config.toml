@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://www.hinnywassyoga.co.uk"
 languageCode = "en"
 title = "Hinny Wass Yoga"
 theme = "hugo-nuo"
