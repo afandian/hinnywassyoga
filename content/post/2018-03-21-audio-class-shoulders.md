@@ -13,16 +13,21 @@ As you explore the sensations you experience as you practice, you may find that 
 
 Below is the sequence, written out, in case you prefer to practise in silence.  It includes some extra poses in brackets which are not on the recording, so if you have a bit more time you can extend your session on the mat to suit you.  If you modify the sequence, stick to the basic idea of warming up to your most advanced pose and then warming down again afterwards, to keep your body safe.  Never stretch into pain, and honour your edges.  Hold each pose for 5-8 breaths each, or each side.
 
-Any poses you don’t recognise you can look up on www.forrestyoga.com in the photo gallery, or you can Google* them (there are some great short videos showing how to do individual poses), or look them up in Ana’s book Fierce Medicine if you have a copy. When searching on the net, always add the word ‘Forrest’ into your search term, as some of the names are common to other forms of yoga, but the poses are done differently.
+Any poses you don’t recognise you can look up on www.forrestyoga.com in the photo gallery, or you can Google`*` them (there are some great short videos showing how to do individual poses), or look them up in Ana’s book Fierce Medicine if you have a copy. When searching on the net, always add the word ‘Forrest’ into your search term, as some of the names are common to other forms of yoga, but the poses are done differently.
 
 The sequence below (though not the audio version) includes one pose which is not Forrest Yoga - pelvic tilts.  I learned this back-opening, soothing, gentle abs exercise from Forrest Yoga Guardian Cat Allen, as part of a webinar on pre- and post-natal yoga.  You can find instructions for how to do it on SpinningBabies.com, which I think is where Cat found the exercise originally.  It is also included in the recording of Audio Class 2: Low Back, Mid Back.
 
 
 
-*Or you could try the eco search engine Ecosia, which plants trees every time you use it!
+`*`Or you could try the eco search engine Ecosia, which plants trees every time you use it!
 
 
 ## The sequence:
+
+<audio controls>
+  <source src="/audio/shoulders.mp3" type="audio/mpeg">
+  Your browser could not play the audio file. <a href="/audio/shoulders.mp3">Download it instead</a>.
+</audio>
 
  - (Wrist stretches)
  - 5 deep breaths, starting in hips, shoulders soft

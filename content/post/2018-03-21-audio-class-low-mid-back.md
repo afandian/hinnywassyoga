@@ -11,16 +11,21 @@ For this class you will need a roll or a block.  You can make a roll out of a bl
 
 Below is the sequence, written out, in case you prefer to practise in silence.  It includes some extra poses in brackets which are not on the recording, so if you have a bit more time you can extend your session on the mat to suit you.  If you modify the sequence, stick to the basic idea of warming up to your most advanced pose and then warming down again afterwards, to keep your body safe.  Never stretch into pain, and honour your edges.  Hold each pose for 5-8 breaths each, or each side.
 
-Any poses you don’t recognise you can look up on www.forrestyoga.com in the photo gallery, or you can Google* them (there are some great short videos showing how to do individual poses), or look them up in Ana’s book Fierce Medicine if you have a copy. When searching on the net, always add the word ‘Forrest’ into your search term, as some of the names are common to other forms of yoga, but the poses are done differently.
+Any poses you don’t recognise you can look up on [www.forrestyoga.com](http://www.forrestyoga.com) in the photo gallery, or you can Google`*` them (there are some great short videos showing how to do individual poses), or look them up in Ana’s book Fierce Medicine if you have a copy. When searching on the net, always add the word ‘Forrest’ into your search term, as some of the names are common to other forms of yoga, but the poses are done differently.
 
 This sequence includes one pose which is not Forrest Yoga - pelvic tilts.  I learned this back-opening, soothing, gentle abs exercise from Forrest Yoga Guardian Cat Allen, as part of a webinar on pre- and post-natal yoga.  I think she got it from SpinningBabies.com.
 
 
 
-*Or you could try the eco search engine Ecosia, which plants trees every time you use it!
+`*`Or you could try the eco search engine Ecosia, which plants trees every time you use it!
 
 
 ## The Sequence:
+
+<audio controls>
+  <source src="/audio/back.mp3" type="audio/mpeg">
+  Your browser could not play the audio file. <a href="/audio/back.mp3">Download it instead</a>.
+</audio>
 
  - Two full breaths each into hips, low back, belly, mid back, solar plexus
  - Unlocking Hips stage 1
