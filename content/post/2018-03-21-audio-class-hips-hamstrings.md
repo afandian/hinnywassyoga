@@ -22,38 +22,30 @@ The sequence includes one pose which is not Forrest Yoga - the optional psoas re
 
 ## The Sequence:
 
-Sit in Baddhakonasana and breathe into pelvic floor.  Inhale bear down a little, exhale draw pelvic floor in towards navel.  5 breaths.
-
-Unlocking the Hips, stages 1,2 and 3
-(Baddhakon Forward Bend)
-Side Bend and Neck Release in Baddhakon
-
-Elbow to Knee x5
-Lying Down Spinal Twist
-Frog Lifting Through x5
-Bridge (optional: with a block under the sacrum, left ankle on right thigh, then switch)
-Dolphin (optional: repeat Dolphin, perhaps with variation like lifting one leg or one arm - do both sides if so)
-
-(Horse with Back Traction)
-
-(Sun Salutations - every lunge do back traction, every Down Dog or Turbo Dog stay for five breaths)
-
-Standing Pose Series:
-Warrior I
-Easy Twisting Warrior
-Pyramid
-Warrior II with Shoulder Shrugs
-Extended Warrior Variation
-Reverse Warrior
-Head to Ankle Prep
-Arrow Lunge
-Lounge Lunge
-
-Lunge Heel to Butt
-
-(Knee Pile with Eagle Arms)
-(Straddle Forward Bend)
-Baddhakonasana on the Back with a strap
-Happy Baby
-
-Savasana, with optional psoas release (5 minutes)
+ - Sit in Baddhakonasana and breathe into pelvic floor.  Inhale bear down a little, exhale draw pelvic floor in towards navel.  5 breaths.
+ - Unlocking the Hips, stages 1,2 and 3
+ - (Baddhakon Forward Bend)
+ - Side Bend and Neck Release in Baddhakon
+ - Elbow to Knee x5
+ - Lying Down Spinal Twist
+ - Frog Lifting Through x5
+ - Bridge (optional: with a block under the sacrum, left ankle on right thigh, then switch)
+ - Dolphin (optional: repeat Dolphin, perhaps with variation like lifting one leg or one arm - do both sides if so)
+ - (Horse with Back Traction)
+ - (Sun Salutations - every lunge do back traction, every Down Dog or Turbo Dog stay for five breaths)
+ - Standing Pose Series:
+ - Warrior I
+ - Easy Twisting Warrior
+ - Pyramid
+ - Warrior II with Shoulder Shrugs
+ - Extended Warrior Variation
+ - Reverse Warrior
+ - Head to Ankle Prep
+ - Arrow Lunge
+ - Lounge Lunge
+ - Lunge Heel to Butt
+ - (Knee Pile with Eagle Arms)
+ - (Straddle Forward Bend)
+ - Baddhakonasana on the Back with a strap
+ - Happy Baby
+ - Savasana, with optional psoas release (5 minutes)

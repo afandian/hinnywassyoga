@@ -24,36 +24,25 @@ The sequence below (though not the audio version) includes one pose which is not
 
 ## The sequence:
 
-(Wrist stretches)
-
-5 deep breaths, starting in hips, shoulders soft
-Sivananda breath, expanding ribs sideways.  5 rounds.
-
-(Cross leg forward bend)
-Side bend and neck release
-
-(Pelvic tilts x10)
-Elbow to knee x5
-Abs with a roll/block x5
-
-(Bridge)
-Dolphin Prelude
-(Turbo Puppy)
-Dolphin
-
-(Sun Salutations, until you sweat)
-
-B-series with three-pose vignettes:
-
- 1. Warrior II with Shoulder Shrugs > WII Birdwing > WII Eagle
- 1. Warrior I Unlocking the Shoulders > WI Archer > WI Chest Opener (with or without a wall)
- 1. Warrior II Kite Hawk > WII with hands clasped behind pelvis > Ostrich)
-
-(Shower on the Wall)
-
-Dorsal Fin, or any Dolphin variation you enjoy
-
-Neck Release
-Lying Down with Knees to Chest
-
-Savasana (5 minutes)
+ - (Wrist stretches)
+ - 5 deep breaths, starting in hips, shoulders soft
+ - Sivananda breath, expanding ribs sideways.  5 rounds.
+ - (Cross leg forward bend)
+ - Side bend and neck release
+ - (Pelvic tilts x10)
+ - Elbow to knee x5
+ - Abs with a roll/block x5
+ - (Bridge)
+ - Dolphin Prelude
+ - (Turbo Puppy)
+ - Dolphin
+ - (Sun Salutations, until you sweat)
+ - B-series with three-pose vignettes:
+	- Warrior II with Shoulder Shrugs > WII Birdwing > WII Eagle
+	- Warrior I Unlocking the Shoulders > WI Archer > WI Chest Opener (with or without a wall)
+	- Warrior II Kite Hawk > WII with hands clasped behind pelvis > Ostrich)
+ - (Shower on the Wall)
+ - Dorsal Fin, or any Dolphin variation you enjoy
+ - Neck Release
+ - Lying Down with Knees to Chest
+ - Savasana (5 minutes)

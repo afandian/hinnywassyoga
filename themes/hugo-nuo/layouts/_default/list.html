@@ -6,11 +6,11 @@
 {{ end }}
 
 {{ define "main" }}
-  {{ partial "header.html" . }}
+  
   <section class="main post-list">
-    <header class="list-header offscreen">
-      <h2 class="list-label">Posts List</h2>
-    </header>
+    
+    <h1>Posts List</h1>
+    
     {{ $paginator := .Paginate (where .Data.Pages "Type" "post") (index .Site.Params "paginate" | default 10) }}
     {{ if ne $paginator.TotalPages 0 }}
       {{ range $paginator.Pages.ByDate.Reverse }}
@@ -34,5 +34,5 @@
       </footer>
     {{ end }}
   </section>
-  {{ partial "footer.html" . }}
+  
 {{ end }}

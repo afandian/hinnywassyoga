@@ -8,7 +8,9 @@ weight: 50
 
 <div class="row">
   <div class="col-md-4">
-    <img class="img-responsive" src="/images/welcome.jpg" alt="Hinny Wass yoga asana">
+    
+
+    <img class="img-fluid" src="/images/welcome.jpg" alt="Hinny Wass yoga asana">
   </div>
   <div class="col-md-8">
     <p class="lead" style="font-size: 1.5em">Forrest Yoga meets every student where they are at right now today, and helps them strengthen, release and heal.</p>

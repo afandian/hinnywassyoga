@@ -9,12 +9,8 @@ weight: 20
 
 **Hinny is now on maternity leave.**
 
-From 12th March, Flo Smith will be running the Monday night class at SOCA. Contact flogayoga@outlook.com with queries or for more info.
+From 12th March, Flo Smith will be running the Monday night class at South Oxford Community Centre. Contact flogayoga@outlook.com with queries or for more info.
 
-</div>
-</div> 
-
-<div class="row">
 <h1>Timetable</h1>
 <div class="col-md-12">
 <table class="table table-striped">
@@ -85,4 +81,4 @@ From 12th March, Flo Smith will be running the Monday night class at SOCA. Conta
 </table>
 
 
-<p>Find Hinny Wass Yoga on <a href="https://www.facebook.com/hinnywassyoga/" target="_blank">Facebook</a>, on Twitter <a href="https://twitter.com/yogahinny">@YogaHinny</a> or email hinny@hinnywassyoga.co.uk and say hullo!</p>
+Find Hinny Wass Yoga on [Facebook](https://www.facebook.com/hinnywassyoga/), on Twitter [@YogaHinny](https://twitter.com/yogahinny)</a> or email hinny@hinnywassyoga.co.uk and say hullo!

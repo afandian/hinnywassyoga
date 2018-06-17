@@ -14,11 +14,49 @@
   <!-- Shared Head -->
   {{ partial "head.html" . }}
 
-  <!-- Polyfill for old browsers -->
-  {{ partial "polyfill.html" . }}
-
 </head>
   <body>
-    {{ block "main" . }}{{ end }}
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-3 col-sm-12" style="padding-top: 1em">
+          <header class="site-header">
+            <img style="width: 10em" src="http://www.hinnywassyoga.co.uk/images/logo.svg" alt="Hinny Wass Yoga">
+            <h1 class="title">{{ .Site.Title }}</h1>
+            <p class="subtitle">{{ .Site.Params.subtitle }}</p>
+
+            <nav class="site-menu">
+              <ul class="menu-list">
+                {{ $type := .Type }}
+                {{ $kind := .Kind }}
+                {{ $currentPage := . }}
+
+                {{ range .Site.Menus.main }}
+                
+                 {{ if not (eq .Name "Hinny Wass Yoga") }}
+                  <li class="menu-item
+                      {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+                        is-active
+                      {{ end }}
+                      {{ if and (eq .Identifier "tags") (and (eq $type "page") (or (eq $kind "taxonomyTerm") (eq $kind "taxonomy"))) }}
+                        is-active
+                      {{ end }}
+                      {{ if and (eq .Identifier "home") (eq $type "post") }}
+                        is-active
+                      {{ end }}">
+                      <a href="{{ .URL }}">{{ .Name }}</a>
+                    {{ end }}
+                    </li>
+                {{ end }}
+              </ul>
+            </nav>
+            
+          </header>
+        </div>
+        <div class="col-md-9 col-sm-12" style="background: #fff; padding-top: 1em">
+          {{ block "main" . }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
   </body>
 </html>

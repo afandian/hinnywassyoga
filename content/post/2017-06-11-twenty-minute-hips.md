@@ -4,7 +4,6 @@ tags: ["Class"]
 date: 2017-06-11
 ---
 
-Sun, Jun 11, 2017
 Are your hips tight, stiff, tweaky? Or do you just want to bring in some sparkling fresh energy to your lower body? Then here’s a fifteen minute practice just for you!
 
 These are all poses we’ve done in class, but if you can’t remember what one looks like then you can google it, or head to the asana photo gallery on www.forrestyoga.com. This sequence is not suitable for anyone who is pregnant.
@@ -17,7 +16,7 @@ As always, work to only 80% of your capacity, and don’t stretch into pain or d
 
 ## The Sequence
 
- - Relaxing the Neck, legs in Baddhakonasana (BK)
+- Relaxing the Neck, legs in Baddhakonasana (BK)
 - Unlocking the Hips (two stages)
 - BK forward bend
 - Frog Lifting Through (4 to 6 rounds)

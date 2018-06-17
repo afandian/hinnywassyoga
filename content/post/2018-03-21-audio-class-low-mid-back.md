@@ -5,8 +5,6 @@ tags: ["Class", "Audio Class"]
 date: 2018-03-21
 ---
 
-
-
 This hour-long recorded class is particularly for anyone who has a tight or aching back, though anyone will benefit from the sequence.  People with back injuries should listen very, very carefully to their bodies and not do anything that hurts.  Best of all, find yourself a Forrest teacher and have them guide you through your practice safely.  Don’t ever stretch into pain, and always honour your edges.
 
 For this class you will need a roll or a block.  You can make a roll out of a blanket, towel, cushion or spare yoga mat.  It should be about six inches in diameter and not too squidgy.
@@ -24,34 +22,24 @@ This sequence includes one pose which is not Forrest Yoga - pelvic tilts.  I lea
 
 ## The Sequence:
 
-Two full breaths each into hips, low back, belly, mid back, solar plexus
-
-Unlocking Hips stage 1
-Seated forward bend, cross leg or in Baddhakonasana
-Seated Twist
-(Side Bend and Neck Release)
-
-Pelvic Tilts x10
-Three-part Twisting Abs with a Roll/Block
-(Twisted Root, 2nd stage)
-
-Bridge with block/roll between the thighs
-Dolphin
-
-(Horse with Back Traction and Uddiyana)
-
-Sun Salutations, breathing into back and telescoping the ribs
-
-B-Series with three-pose vignettes:
-
- 1. Warrior I with Back Traction > Easy Twisting Lunge > Pigeon
- 1. Warrior II with hands clasped behind pelvis > Head to Ankle Prep > Lounge Lunge
-
-Twisting Pigeon Over Thigh and Twisting Pigeon Over Foot
-
-(Lounge Lizard with a Roll)
-(Abs with a Roll/Block)
-Knee pile/cross legs with Archer Arms
-Lying Down Spinal Twist
-
-Savasana (5 minutes)
+ - Two full breaths each into hips, low back, belly, mid back, solar plexus
+ - Unlocking Hips stage 1
+ - Seated forward bend, cross leg or in Baddhakonasana
+ - Seated Twist
+ - (Side Bend and Neck Release)
+ - Pelvic Tilts x10
+ - Three-part Twisting Abs with a Roll/Block
+ - (Twisted Root, 2nd stage)
+ - Bridge with block/roll between the thighs
+ - Dolphin
+ - (Horse with Back Traction and Uddiyana)
+ - Sun Salutations, breathing into back and telescoping the ribs
+ - B-Series with three-pose vignettes:
+    - Warrior I with Back Traction > Easy Twisting Lunge > Pigeon
+    - Warrior II with hands clasped behind pelvis > Head to Ankle Prep > Lounge Lunge
+ - Twisting Pigeon Over Thigh and Twisting Pigeon Over Foot
+ - (Lounge Lizard with a Roll)
+ - (Abs with a Roll/Block)
+ - Knee pile/cross legs with Archer Arms
+ - Lying Down Spinal Twist
+ - Savasana (5 minutes)
