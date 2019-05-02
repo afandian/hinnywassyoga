@@ -81,4 +81,4 @@ From 12th March, Flo Smith will be running the Monday night class at South Oxfor
 </table>
 
 
-Find Hinny Wass Yoga on [Facebook](https://www.facebook.com/hinnywassyoga/), on Twitter [@YogaHinny](https://twitter.com/yogahinny)</a> or email hinny@hinnywassyoga.co.uk and say hullo!
+Find Hinny Wass Yoga on [Facebook](https://www.facebook.com/hinnywassyoga/), on Twitter [@YogaHinny](https://twitter.com/yogahinny)</a> or email <strong>hinny@hinnywassyoga.co.uk</strong> and say hullo!

@@ -13,4 +13,4 @@ Hinny is a violin teacher of ten years' experience. She began learning the violi
 
 Having now become a certified yoga teacher, Hinny is in the wonderful position of being able to share this discovery with other violinists and viola players.  In these specialist workshops, Forrest-inspired yoga sequences are combined with tone and resonance exercises.  The links between posture, mindset and sound are explored, to help you break through the physical and mental barriers to unrestrained musical expression.
 
-If you would like Hinny to run a half or full day workshop in your local area, for your orchestra or fiddle group, at your university&rsquo;s music department, or for your group of friends then please email hinny@hinnywassyoga.co.uk.
+If you would like Hinny to run a half or full day workshop in your local area, for your orchestra or fiddle group, at your university&rsquo;s music department, or for your group of friends then please email **hinny@hinnywassyoga.co.uk** .

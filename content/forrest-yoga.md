@@ -15,5 +15,5 @@ After moving to Oxford, Hinny missed Jambo&rsquo;s classes and the Forrest Yoga 
 
 To find out more about Forrest Yoga visit [forrestyoga.com](https://www.forrestyoga.com/).
 
-When you come to class, wear comfy clothes that you can stretch in, and bring a bottle of water.  Mats and props are provided, but you can bring your own if you prefer.  Yoga is best on an empty belly, so don&rsquo;t eat in the 90 minutes before class. Email hinny@hinnywassyoga.co.uk to book your place, or just turn up.  If it&rsquo;s your first class, come a little early.</p>
+When you come to class, wear comfy clothes that you can stretch in, and bring a bottle of water.  Mats and props are provided, but you can bring your own if you prefer.  Yoga is best on an empty belly, so don&rsquo;t eat in the 90 minutes before class. Email **hinny@hinnywassyoga.co.uk** to book your place, or just turn up.  If it&rsquo;s your first class, come a little early.</p>
 

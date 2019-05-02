@@ -114,7 +114,7 @@ weight: 50
     <div class="panel panel-default">
       <div class="panel-body">
         <p class="lead">I'm looking forward to hearing from you!</p>
-        <p class="email">hinny@hinnywassyoga.co.uk</p>
+        <p class="email"><strong>hinny@hinnywassyoga.co.uk</strong></p>
       </div>
     </div>
   </div>
