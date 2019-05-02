@@ -7,10 +7,6 @@ weight: 20
 
 ---
 
-**Hinny is now on maternity leave.**
-
-From 12th March, Flo Smith will be running the Monday night class at South Oxford Community Centre. Contact flogayoga@outlook.com with queries or for more info.
-
 <h1>Timetable</h1>
 <div class="col-md-12">
 <table class="table table-striped">
@@ -38,47 +34,30 @@ From 12th March, Flo Smith will be running the Monday night class at South Oxfor
 
 <td class="lead">Forrest Yoga</td>
 <td>South Oxford Community Centre<br><small>Brenda Horwood Room</small><br><small>Access via main entrance, ring the bell</small></td>
-<td>With Flo Smith.<br>Mixed ability class. All welcome!</td>
+<td>Mixed ability class. All welcome!</td>
 <td>£10 <br> <small>£5 students <br> £40 for six</small></td>
 </tr>
 
-<!--<tr>
-<td style="text-align: center"><strong>Tuesdays</strong><br>2.00pm <br> <small>to</small><br> 3.00pm</td>
-<td class="lead">Free Classes for South Oxford Parents</td>
-<td>Grandpont Family Room<br><small>(the old Children's Centre)</small></td>
-<td>Priority given to local parents <br>with low or no income.<br>Booking essential.</td>
+<tr>
+<td style="text-align: center"><strong>Fridays in May</strong><br>8.30am <br> <small>to</small><br> 9.00am</td>
+<td class="lead">Wellbeing for students.</td>
+<td>Weston Library</td>
+<td>Oxford University students only.</td>
 <td>Free</td>
-</tr> -->
-<!--<tr>
-<td style="text-align: center"><strong>Wednesdays</strong> <br>10.00am <br> <small>to</small><br> 11.00am</td>
-<td class="lead">Forrest Yoga</td>
-<td>South Oxford Community Centre<br><small>Main Hall</small><br><small>Access via main door, come upstairs</small></td>
-<td>Mixed ability class.  All welcome!</td>
-<td>£8 <br> <small>£4 students <br> £32 for six</small></td>
-</tr>-->
-<!--<tr style="color:#c0d6f9">
-<td style="text-align: center"><strong>Wednesdays</strong> <br>12.30pm <br> <small>to</small><br> 1.00pm</td>
-<td class="lead">Lunchtime Office Escape<br>will resume in late September</td>
-<td>The Jam Factory</td>
-<td>Stretch and refresh!</td>
-<td>£7 <br> <small>£50 for ten</small></td>
-</tr>-->
-<!--<tr style="color:#c0d6f9">
-<td style="text-align: center"><strong>Wednesdays</strong> <br>1.00pm <br> <small>to</small><br> 1.30pm</td>
-<td class="lead">Lunchtime Office Escape<br>will resume in late September</td>
-<td>The Jam Factory</td>
-<td>Stretch and refresh!</td>
-<td>£7 <br> <small>£50 for ten</small></td>
-</tr>-->
-<!--<tr>
-<td style="text-align: center"><strong>Fridays</strong><br>10.30am <br> <small>to</small><br> 11.45am</td>
-<td class="lead">Forrest Yoga</td>
-<td>Yoga Venue</td>
-<td>Mixed ability class.  All welcome!</td>
-<td>Book through<br><a href="http://yogavenue.co.uk/apps/mindbody/classes/161" target="_blank">yogavenue.co.uk</a></td>
-</tr>-->
+</tr>
+
+<tr>
+<td style="text-align: center"><strong>Tuesdays from 21st May to 2nd July</strong><br>8.00am <br> <small>to</small><br> 8.45am</td>
+<td class="lead">Yoga beneath the dinosaurs.</td>
+<td>Oxford Natural History Museum</td>
+<td>Staff of Oxford University GLAM</td>
+<td>£7</td>
+</tr>
+
 </tbody>
 </table>
 
 
+**Hinny also offers one-to-one tuition in your home. For prices and more information email hinny@hinnywassyoga.co.uk.**
+ 
 Find Hinny Wass Yoga on [Facebook](https://www.facebook.com/hinnywassyoga/), on Twitter [@YogaHinny](https://twitter.com/yogahinny)</a> or email <strong>hinny@hinnywassyoga.co.uk</strong> and say hullo!
