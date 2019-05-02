@@ -10,7 +10,9 @@ weight: 50
   <div class="col-md-4">
     
 
-    <img class="img-fluid" src="/images/welcome.jpg" alt="Hinny Wass yoga asana">
+    <img class="img-fluid" src="/images/YVpic-portrait.jpg" alt="Hinny Wass yoga asana">
+    <p><small>Image credit Caroline Gozzi.</small></p>
+
   </div>
   <div class="col-md-8">
     <p class="lead" style="font-size: 1.5em">Forrest Yoga meets every student where they are at right now today, and helps them strengthen, release and heal.</p>
@@ -87,7 +89,7 @@ weight: 50
 
   </div>
   <div class="col-md-5">
-    <img class="img-responsive" src="/images/horse-portrait.jpg" alt="Hinny Wass yoga asana">
+    <img class="img-fluid" src="/images/welcome-portrait.jpg" alt="Hinny Wass yoga asana">
   </div>
 </div>
 
