@@ -77,8 +77,14 @@ weight: 50
 <h1>Who is Hinny Wass?</h1>
 <div class="row">
   <div class="col-md-7">
-    <p>Hinny is a violinist and violin teacher, based in Oxford.  She discovered Forrest Yoga while living in Newcastle upon Tyne, and found that it was an excellent way of easing the aches and pains of being a professional musician.  In the classes she felt safe and supported, and she gained the tools she needed to heal her body and soothe her mind.  Having never considered herself 'sporty', much to her surprise she found herself becoming physically strong and balanced, and she was delighted to discover a new confidence in herself.</p>
-    <p>When she moved to Oxford, Hinny missed Forrest Yoga so much that she decided to train as a teacher.  She is super excited to share this unique and wonderful form of yoga with the people of Oxford, and to help other people experience its myriad benefits.  In her spare time Hinny enjoys reading spy novels, knitting socks, and dancing.  She has an MA in linguistics, specialising in syntax.</p>
+<p>Hinny is a certified Level Two Forrest Yoga Teacher, based in Oxford. She first discovered Forrest Yoga, under the expert teaching of Forrest Yoga Guardian Jambo Truong, while living in Newcastle upon Tyne.  At the time she was working full time as a violinist and violin teacher, and found that Forrest Yoga was an excellent way of easing the aches and pains resulting from her work.  </p>
+ 
+<p>As Hinny continued to practise Forrest Yoga, she discovered that it was also the route to becoming stronger than she’d ever imagined she could be, feeling more balanced both in body and in mind, to healing physical discomforts and emotional scar tissue, to learning how to live with more grace and make better choices, and to becoming part of a wonderful, intelligent and fiercely kind community - the international Forrest Yoga tribe.  She is very excited to share this unique and wonderful form of yoga with you, and to help you experience its myriad benefits. </p>
+ 
+<p>In Hinny’s classes you can expect to feel supported, safe and encouraged.  You will be given all the help you need so you can practise yoga in a way which is healing, comfortable, strengthening, revelatory, mindful and transformative.</p>  
+ 
+<p>In her spare time Hinny enjoys feeling the sunshine on her skin, reading spy novels, knitting socks, and dancing, though she has much less spare time these days since her most beloved son was born. Hinny has an MA in linguistics, specialising in syntax.  </p>
+
   </div>
   <div class="col-md-5">
     <img class="img-responsive" src="/images/horse-portrait.jpg" alt="Hinny Wass yoga asana">
